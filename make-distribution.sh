@@ -35,7 +35,7 @@ DISTDIR="$SPARK_HOME/dist"
 SPARK_TACHYON=false
 TACHYON_VERSION="0.8.2"
 TACHYON_TGZ="tachyon-${TACHYON_VERSION}-bin.tar.gz"
-TACHYON_URL="http://tachyon-project.org/downloads/files/${TACHYON_VERSION}/${TACHYON_TGZ}"
+TACHYON_URL="http://www.alluxio.org/downloads/files/${TACHYON_VERSION}/${TACHYON_TGZ}"
 
 MAKE_TGZ=false
 NAME=none
